@@ -1,0 +1,17 @@
+border-width: Define a largura da borda. Você pode especificar valores individuais para cada lado (top, right, bottom, left) ou usar um valor único para todos os lados.
+
+border-style: Define o estilo da borda, como sólido, tracejado, pontilhado, etc.
+
+border-color: Define a cor da borda. Você pode especificar uma cor individual para cada lado ou usar um valor único para todos os lados.
+
+border: Esta é uma propriedade abreviada que permite definir a largura, o estilo e a cor da borda em uma única declaração. Por exemplo, border: 2px solid #000; define uma borda preta sólida de 2 pixels de largura em todos os lados.
+
+border-top, border-right, border-bottom, border-left: Essas propriedades individuais permitem definir a largura, o estilo e a cor da borda para cada lado separadamente.
+
+border-radius: Define o raio das bordas dos elementos, permitindo que você crie bordas arredondadas.
+
+border-image: Permite que você use uma imagem como borda em vez de um estilo de borda tradicional.
+
+border-collapse e border-spacing: Essas propriedades são usadas para controlar o espaçamento entre as bordas de células de tabelas em layouts de tabela.
+
+border-top-left-radius, border-top-right-radius, border-bottom-left-radius, border-bottom-right-radius: Permitem definir o raio das bordas individualmente para cada canto do elemento.
