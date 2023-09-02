@@ -1,0 +1,49 @@
+8. <body>: Contém o conteúdo visível da página, como texto, imagens e outros elementos.
+
+<header>: Define o cabeçalho da página ou de uma seção.
+<nav>: Define a navegação principal da página.
+<main>: Define o conteúdo principal da página.
+<article>: Define um conteúdo independente e autossuficiente, como um artigo.
+<section>: Define uma seção temática do documento.
+<aside>: Define conteúdo relacionado ao conteúdo circundante.
+<footer>: Define o rodapé da página ou de uma seção.
+<div>: Usado para criar contêineres genéricos para agrupar elementos e aplicar estilos.
+<span>: Usado para aplicar estilos ou manipular partes de texto dentro de um elemento, como um parágrafo.
+Texto e formatação:
+18. <h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Define cabeçalhos de diferentes níveis (do mais importante ao menos importante).
+
+<p>: Define parágrafos de texto.
+<a>: Cria links para outras páginas ou recursos.
+<ul>: Define uma lista não ordenada.
+<ol>: Define uma lista ordenada.
+<li>: Define um item de lista em <ul> ou <ol>.
+<br>: Insere uma quebra de linha.
+<hr>: Insere uma linha horizontal.
+<em>: Define texto enfatizado.
+<strong>: Define texto fortemente enfatizado.
+<u>: Define texto sublinhado.
+<del>: Define texto deletado ou riscado.
+<ins>: Define texto inserido ou sublinhado.
+<blockquote>: Define uma citação longa.
+<q>: Define uma citação curta.
+<abbr>: Define uma abreviação.
+<code>: Define código-fonte ou texto monoespaçado.
+<pre>: Define texto pré-formatado.
+Mídia:
+36. <img>: Insere imagens na página.
+
+<audio>: Insere conteúdo de áudio.
+<video>: Insere conteúdo de vídeo.
+<iframe>: Insere conteúdo externo, como uma página incorporada ou um mapa.
+Formulários:
+40. <form>: Define um formulário HTML.
+
+<input>: Cria elementos de entrada em um formulário, como caixas de texto, botões e caixas de seleção.
+<textarea>: Cria uma área de texto multilinha em um formulário.
+<button>: Cria botões interativos.
+<label>: Define uma etiqueta descritiva para um elemento de entrada.
+<select>: Cria listas suspensas.
+<option>: Define opções em um elemento <select>.
+<fieldset>: Agrupa elementos de formulário relacionados.
+<legend>: Define uma legenda para um elemento <fieldset>.
+<datalist>: Fornece uma lista de opções para elementos <input> do tipo texto.
